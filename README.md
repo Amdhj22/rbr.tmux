@@ -16,7 +16,7 @@
 
 ## About
 
-`rbr.tmux` paints your tmux status bar, window tabs, pane borders, and prompts with the [RBR color scheme](https://github.com/Amdhj22/rbr) — **kerb red** for the focused pane and active window, **RB yellow** for session badges and messages. tmux has no syntax surface, so the third RBR brand accent (**pure white**, used for functions in editor ports) does not apply here. See the upstream [`STYLE-GUIDE.md`](https://github.com/Amdhj22/rbr/blob/main/STYLE-GUIDE.md) for the full design rules.
+`rbr.tmux` paints your tmux status bar, window tabs, pane borders, and prompts with the [RBR color scheme](https://github.com/Amdhj22/rbr) — **kerb red** for the focused pane and active window, **RB yellow** for session badges and messages. tmux has no syntax surface, so the third RBR brand accent (**chequer white**, used for functions in editor ports) does not apply here. See the upstream [`STYLE-GUIDE.md`](https://github.com/Amdhj22/rbr/blob/main/STYLE-GUIDE.md) for the full design rules.
 
 > [!NOTE]
 > This scheme is a fan tribute. Not affiliated with or endorsed by Red Bull Racing, Oracle Red Bull Racing, or Red Bull GmbH.
