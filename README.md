@@ -85,6 +85,19 @@ Color values live upstream in [`Amdhj22/rbr`](https://github.com/Amdhj22/rbr)'s 
 
 &nbsp;
 
+## Companion ports
+
+For a consistent look across the rest of your stack:
+
+| Tool | Repo |
+|---|---|
+| Neovim | [Amdhj22/rbr.nvim](https://github.com/Amdhj22/rbr.nvim) |
+| VS Code | [Amdhj22/rbr.vscode](https://github.com/Amdhj22/rbr.vscode) |
+| Obsidian | [Amdhj22/rbr.obsidian](https://github.com/Amdhj22/rbr.obsidian) |
+| Ghostty / iTerm2 / Powerlevel10k / eza | [Amdhj22/rbr](https://github.com/Amdhj22/rbr) |
+
+&nbsp;
+
 ## License
 
 [MIT](./LICENSE) © Amdhj22
